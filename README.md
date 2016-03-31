@@ -1,0 +1,2 @@
+# docker-fluentd
+Dockerized fluentd
